@@ -32,14 +32,15 @@ React JS, Redux (intermediate level knowledge).
 
 Code examples
 -----------------
-```if ( num > 0) {
-result = "Число позитивное";
+```
+if ( num > 0) {
+  result = "Число позитивное";
 } else if ( num < 0 ) {
-result = "Число негативное";
+  result = "Число негативное";
 } else if ( num == 0) {
-result = "Число равно 0"
+  result = "Число равно 0"
 }
-    console.log(result);
+console.log(result);
 ```
 
 
