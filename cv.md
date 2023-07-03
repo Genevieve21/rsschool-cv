@@ -1,5 +1,5 @@
 
-# Evgeniya Semikina  ![foto1.jpg](..%2F..%2FDesktop%2Ffoto1.jpg)
+# Evgeniya Semikina  ![photo1.jpg](resources/photo1.jpg)
 ### Junior Frontend Developer
 ______________
 
@@ -48,13 +48,13 @@ Education
 * Bachelor, Moscow Pedagogical State University
   - Faculty of Teaching in elementary grades
   
-* RS Scool 
+* RS School 
 Frontend development
 
 
 Languages
 -----------------
 * Russian (native speaker)
-* English (Upper-entermidiate)
+* English (Upper-intermediate)
 
 
