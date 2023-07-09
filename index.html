@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Author" content="Evgenia Semikina">
     <meta name="Address" content="Tatooine, crater №97">
     <title>CVbyES</title>
@@ -11,9 +11,9 @@
 </head>
 
 <body>
-<header>
-    <img src="resources/photo350x248.jpg" alt="Logo" height="348" width="250"/>
-    <nav>
+    <header>
+    <img class="photo" src="resources/photo350x248.jpg" alt="Logo"/>
+     <nav class="Nav">
         <table>
             <tr>
                 <td><a href="/">About me</a></td>
@@ -26,14 +26,14 @@
             </tr>
         </table>
     </nav>
-</header>
+    </header>
 
 
-<main>
-<h1>Evgenia Semikina</h1>
-    <h2>Junior Front-end Developer</h2>
-
-    <aside>
+    <main>
+        <h1 class="H1">Evgenia Semikina</h1>
+        <h2 class="H2">Junior Front-end Developer</h2>
+    <hr>
+    <aside class="asade">
         <h3>My contact info:</h3>
         <ul>
             <li>Phone: +995 591177206</li>
@@ -85,7 +85,7 @@
         <p>My projects will appear here in the future.</p>
     </section>
 
-    <aside>
+    <aside class="asade2">
         <h3>Education:</h3>
         <ul>
            <li>Bachelor, Moscow Pedagogical State University</li>
@@ -112,25 +112,27 @@
 
 
 
-</main>
+    </main>
 
 
-<footer>
+    <footer>
 
     <article>
         <address>
             <table>
+                <tbody>
                 <tr>
                     <td><time datetime="2023">2023г.</time></td>
-                    <td><a href="https://github.com/Genevieve21">MyGitHub</a></td>
-                    <td><a href="https://rs.school/js/">RS School</a></td>
-                    <td><img src="resources/rs_school_js.svg" alt="LogoRS" height="100" width="150"></td>
+                    <td><a href="https://github.com/Genevieve21" target="_blank">MyGitHub</a></td>
+                    <td><a href="https://rs.school/js/" target="_blank">RS School</a></td>
+                    <td><img class="logoRS" src="resources/rs_school_js.svg" alt="LogoRS" height="100" width="150"/></td>
                 </tr>
+                </tbody>
             </table>
         </address>
     </article>
 
-</footer>
+    </footer>
 
 </body>
 </html>
