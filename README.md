@@ -1,2 +1,4 @@
-https://genevieve21.github.io/rsschool-cv/cv
-https://genevieve21.github.io/rsschool-cv/
+[link to CV](https://Genevieve21.github.io/rsschool-cv/cv)
+
+
+[link to CV2](https://Genevieve21.github.io/rsschool-cv/)
